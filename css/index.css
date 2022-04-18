@@ -1,0 +1,74 @@
+:root{
+   --ancho: 100%;
+}
+#contacto{
+		width: 60%;
+    height: 60vh;
+    background-color: #dee3ed;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color: #182153;
+}
+#contacto h2{
+	 text-align: center;
+}
+.area{
+    width: 60%;
+    height: 70vh;
+    background-color: #dee3ed;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color: #182153;
+}
+#contacto h2{
+	 text-align: center;
+}
+
+.cajastexto{
+	width: 98%;
+	left: 0;
+	height: 25px;
+	border: 0;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.cajastexto2{
+	width: 98%;
+	left: 0;
+	height: 50px;
+	border: 0;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.boton{
+	width: 50%;
+	left: 25%;
+	height: 40px;
+	background-color: #182153;
+	color: #ffffff;
+	border: 0;
+	margin-left: 25%;
+  margin-right: auto;
+}
+.boton:hover{
+	background-color: #9ba9c3;
+	color: black;
+}
+#logo {
+  width: 40px;
+  height: 40px;
+}
+#redes{
+	padding: 2px 7px 2px 7px;
+   	text-align: center;
+}
